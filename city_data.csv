@@ -1,0 +1,203 @@
+city,lat,lng
+"Kabul, Afghanistan",34.28,69.11
+"Tirane, Albania",41.18,19.49
+"Algiers, Algeria",36.42,3.08
+"Pago Pago, American Samoa",-14.16,-170.43
+"Andorra la Vella, Andorra",42.31,1.32
+"Luanda, Angola",-8.5,13.15
+"West Indies, Antigua and Barbuda",17.2,-61.48
+"Buenos Aires, Argentina",-36.3,-60.0
+"Yerevan, Armenia",40.1,44.31
+"Oranjestad, Aruba",12.32,-70.02
+"Canberra, Australia",-35.15,149.08
+"Vienna, Austria",48.12,16.22
+"Baku, Azerbaijan",40.29,49.56
+"Nassau, Bahamas",25.05,-77.2
+"Manama, Bahrain",26.1,50.3
+"Dhaka, Bangladesh",23.43,90.26
+"Bridgetown, Barbados",13.05,-59.3
+"Minsk, Belarus",53.52,27.3
+"Brussels, Belgium",50.51,4.21
+"Belmopan, Belize",17.18,-88.3
+"Porto Novo (constitutional) / Cotonou (seat of government), Benin",6.23,2.42
+"Thimphu, Bhutan",27.31,89.45
+"La Paz (administrative) / Sucre (legislative), Bolivia",-16.2,-68.1
+"Sarajevo, Bosnia and Herzegovina",43.52,18.26
+"Gaborone, Botswana",-24.45,25.57
+"Brasilia, Brazil",-15.47,-47.55
+"Road Town, British Virgin Islands",18.27,-64.37
+"Bandar Seri Begawan, Brunei Darussalam",4.52,115.0
+"Sofia, Bulgaria",42.45,23.2
+"Ouagadougou, Burkina Faso",12.15,-1.3
+"Bujumbura, Burundi",-3.16,29.18
+"Phnom Penh, Cambodia",11.33,104.55
+"Yaounde, Cameroon",3.5,11.35
+"Ottawa, Canada",45.27,-75.42
+"Praia, Cape Verde",15.02,-23.34
+"George Town, Cayman Islands",19.2,-81.24
+"Bangui, Central African Republic",4.23,18.35
+"N'Djamena, Chad",12.1,14.59
+"Santiago, Chile",-33.24,-70.4
+"Beijing, China",39.55,116.2
+"Bogota, Colombia",4.34,-74.0
+"Moroni, Comros",-11.4,43.16
+"Brazzaville, Congo",-4.09,15.12
+"San Jose, Costa Rica",9.55,-84.02
+"Yamoussoukro, Cote d'Ivoire",6.49,-5.17
+"Zagreb, Croatia",45.5,15.58
+"Havana, Cuba",23.08,-82.22
+"Nicosia, Cyprus",35.1,33.25
+"Prague, Czech Republic",50.05,14.22
+"Kinshasa, Democratic Republic of the Congo",-4.2,15.15
+"Copenhagen, Denmark",55.41,12.34
+"Djibouti, Djibouti",11.08,42.2
+"Roseau, Dominica",15.2,-61.24
+"Santo Domingo, Dominica Republic",18.3,-69.59
+"Dili, East Timor",-8.29,125.34
+"Quito, Ecuador",-0.15,-78.35
+"Cairo, Egypt",30.01,31.14
+"San Salvador, El Salvador",13.4,-89.1
+"Malabo, Equatorial Guinea",3.45,8.5
+"Asmara, Eritrea",15.19,38.55
+"Tallinn, Estonia",59.22,24.48
+"Addis Ababa, Ethiopia",9.02,38.42
+"Stanley, Falkland Islands (Malvinas)",-51.4,-59.51
+"Torshavn, Faroe Islands",62.05,-6.56
+"Suva, Fiji",-18.06,178.3
+"Helsinki, Finland",60.15,25.03
+"Paris, France",48.5,2.2
+"Cayenne, French Guiana",5.05,-52.18
+"Papeete, French Polynesia",-17.32,-149.34
+"Libreville, Gabon",0.25,9.26
+"Banjul, Gambia",13.28,-16.4
+"T'bilisi, Georgia",41.43,44.5
+"Berlin, Germany",52.3,13.25
+"Accra, Ghana",5.35,-0.06
+"Athens, Greece",37.58,23.46
+"Nuuk, Greenland",64.1,-51.35
+"Basse-Terre, Guadeloupe",16.0,-61.44
+"Guatemala, Guatemala",14.4,-90.22
+"St. Peter Port, Guernsey",49.26,-2.33
+"Conakry, Guinea",9.29,-13.49
+"Bissau, Guinea-Bissau",11.45,-15.45
+"Georgetown, Guyana",6.5,-58.12
+"Port-au-Prince, Haiti",18.4,-72.2
+" , Heard Island and McDonald Islands",-53.0,74.0
+"Tegucigalpa, Honduras",14.05,-87.14
+"Budapest, Hungary",47.29,19.05
+"Reykjavik, Iceland",64.1,-21.57
+"New Delhi, India",28.37,77.13
+"Jakarta, Indonesia",-6.09,106.49
+"Tehran, Iran (Islamic Republic of)",35.44,51.3
+"Baghdad, Iraq",33.2,44.3
+"Dublin, Ireland",53.21,-6.15
+"Jerusalem, Israel",31.71,35.1
+"Rome, Italy",41.54,12.29
+"Kingston, Jamaica",18.0,-76.5
+"Amman, Jordan",31.57,35.52
+"Astana, Kazakhstan",51.1,71.3
+"Nairobi, Kenya",-1.17,36.48
+"Tarawa, Kiribati",1.3,173.0
+"Kuwait, Kuwait",29.3,48.0
+"Bishkek, Kyrgyzstan",42.54,74.46
+"Vientiane, Lao People's  Democratic Republic",17.58,102.36
+"Riga, Latvia",56.53,24.08
+"Beirut, Lebanon",33.53,35.31
+"Maseru, Lesotho",-29.18,27.3
+"Monrovia, Liberia",6.18,-10.47
+"Tripoli, Libyan Arab Jamahiriya",32.49,13.07
+"Vaduz, Liechtenstein",47.08,9.31
+"Vilnius, Lithuania",54.38,25.19
+"Luxembourg, Luxembourg",49.37,6.09
+"Macau, Macao, China",22.12,113.33
+"Antananarivo, Madagascar",-18.55,47.31
+"Skopje, Macedonia (Former Yugoslav Republic)",42.01,21.26
+"Lilongwe, Malawi",-14.0,33.48
+"Kuala Lumpur, Malaysia",3.09,101.41
+"Male, Maldives",4.0,73.28
+"Bamako, Mali",12.34,-7.55
+"Valletta, Malta",35.54,14.31
+"Fort-de-France, Martinique",14.36,-61.02
+"Nouakchott, Mauritania",-20.1,57.3
+"Mamoudzou, Mayotte",-12.48,45.14
+"Mexico, Mexico",19.2,-99.1
+"Palikir, Micronesia (Federated States of)",6.55,158.09
+"Chisinau, Moldova, Republic of",47.02,28.5
+"Maputo, Mozambique",-25.58,32.32
+"Yangon, Myanmar",16.45,96.2
+"Windhoek, Namibia",-22.35,17.04
+"Kathmandu, Nepal",27.45,85.2
+"Amsterdam / The Hague (seat of Government), Netherlands",52.23,4.54
+"Willemstad, Netherlands Antilles",12.05,-69.0
+"Noumea, New Caledonia",-22.17,166.3
+"Wellington, New Zealand",-41.19,174.46
+"Managua, Nicaragua",12.06,-86.2
+"Niamey, Niger",13.27,2.06
+"Abuja, Nigeria",9.05,7.32
+"Kingston, Norfolk Island",-45.2,168.43
+"Pyongyang, North Korea",39.09,125.3
+"Saipan, Northern Mariana Islands",15.12,145.45
+"Oslo, Norway",59.55,10.45
+"Masqat, Oman",23.37,58.36
+"Islamabad, Pakistan",33.4,73.1
+"Koror, Palau",7.2,134.28
+"Panama, Panama",9.0,-79.25
+"Port Moresby, Papua New Guinea",-9.24,147.08
+"Asuncion, Paraguay",-25.1,-57.3
+"Lima, Peru",-12.0,-77.0
+"Manila, Philippines",14.4,121.03
+"Warsaw, Poland",52.13,21.0
+"Lisbon, Portugal",38.42,-9.1
+"San Juan, Puerto Rico",18.28,-66.07
+"Doha, Qatar",25.15,51.35
+"Seoul, Republic of  Korea",37.31,126.58
+"Bucuresti, Romania",44.27,26.1
+"Moskva, Russian Federation",55.45,37.35
+"Kigali, Rawanda",-1.59,30.04
+"Basseterre, Saint Kitts and Nevis",17.17,-62.43
+"Castries, Saint Lucia",14.02,-60.58
+"Saint-Pierre, Saint Pierre and Miquelon",46.46,-56.12
+"Kingstown, Saint Vincent and the Greenadines",13.1,-61.1
+"Apia, Samoa",-13.5,-171.5
+"San Marino, San Marino",43.55,12.3
+"Sao Tome, Sao Tome and Principe",0.1,6.39
+"Riyadh, Saudi Arabia",24.41,46.42
+"Dakar, Senegal",14.34,-17.29
+"Freetown, Sierra Leone",8.3,-13.17
+"Bratislava, Slovakia",48.1,17.07
+"Ljubljana, Slovenia",46.04,14.33
+"Honiara, Solomon Islands",-9.27,159.57
+"Mogadishu, Somalia",2.02,45.25
+"Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial), South Africa",-25.44,28.12
+"Madrid, Spain",40.25,-3.45
+"Khartoum, Sudan",15.31,32.35
+"Paramaribo, Suriname",5.5,-55.1
+"Mbabane (administrative), Swaziland",-26.18,31.06
+"Stockholm, Sweden",59.2,18.03
+"Bern, Switzerland",46.57,7.28
+"Damascus, Syrian Arab Republic",33.3,36.18
+"Dushanbe, Tajikistan",38.33,68.48
+"Bangkok, Thailand",13.45,100.35
+"Lome, Togo",6.09,1.2
+"Nuku'alofa, Tonga",-21.1,-174.0
+"Tunis, Tunisia",36.5,10.11
+"Ankara, Turkey",39.57,32.54
+"Ashgabat, Turkmenistan",38.0,57.5
+"Funafuti, Tuvalu",-8.31,179.13
+"Kampala, Uganda",0.2,32.3
+"Kiev (Russia), Ukraine",50.3,30.28
+"Abu Dhabi, United Arab Emirates",24.28,54.22
+"London, United Kingdom of Great Britain and Northern Ireland",51.36,-0.05
+"Dodoma, United  Republic of Tanzania",-6.08,35.45
+"Washington DC, United States
+        of America",39.91,-77.02
+"Charlotte Amalie, United States
+        of Virgin Islands",18.21,-64.56
+"Montevideo, Uruguay",-34.5,-56.11
+"Tashkent, Uzbekistan",41.2,69.1
+"Port-Vila, Vanuatu",-17.45,168.18
+"Caracas, Venezuela",10.3,-66.55
+"Hanoi, Viet Nam",21.05,105.55
+"Belgrade, Yugoslavia",44.5,20.37
+"Lusaka, Zambia",-15.28,28.16
+"Harare, Zimbabwe",-17.43,31.02
